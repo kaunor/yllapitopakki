@@ -10,3 +10,4 @@ catch {
 	Kirjoita-Loki "Virhe levytilan tarkastuksessa: $($_.Exception.Message)"
     Write-Host "Virhe: $($_.Exception.Message)"
 }
+
